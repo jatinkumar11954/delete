@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">453987124142-3kvmfvhsbdkt1r5slkckb6pkpuqhhoed.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://conversion-guru-1552648965168.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">453987124142</string>
+    <string name="google_api_key" translatable="false">AIzaSyD0ioQkiZYSR8xHmBEcYof1hvnxFWs_MbA</string>
+    <string name="google_app_id" translatable="false">1:453987124142:android:ea4c103021842678557e3f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD0ioQkiZYSR8xHmBEcYof1hvnxFWs_MbA</string>
+    <string name="google_storage_bucket" translatable="false">conversion-guru-1552648965168.appspot.com</string>
+    <string name="project_id" translatable="false">conversion-guru-1552648965168</string>
+</resources>
